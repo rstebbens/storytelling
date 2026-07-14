@@ -63,7 +63,7 @@ Do not begin writing until discovery is sufficiently complete.
 
 Use:
 
-`prompts/write-a-story.md`
+`prompts/write-the-story.md`
 
 Choose this workflow when:
 
