@@ -15,12 +15,12 @@ If the story has not yet been found, route to `discover-the-story.md`.
 Load and apply:
 
 * principles/00-core-principles.md
-* principles/10-discovery.md
-* principles/20-atmosphere.md
-* principles/30-narrative.md
-* principles/40-reflection.md
-* principles/50-voice.md
-* principles/60-anti-patterns.md
+* principles/01-discovery.md
+* principles/02-atmosphere.md
+* principles/03-narrative.md
+* principles/04-reflection.md
+* principles/05-voice.md
+* principles/06-anti-patterns.md
 * principles/99-conditions-of-satisfaction.md
 
 These files are part of this workflow.
@@ -77,11 +77,17 @@ Do not interrupt the narrative with unnecessary explanation.
 
 # Step 4 - Reflect
 
-Reflection should emerge naturally from the events.
+Allow the narrator's understanding to develop within the story.
+
+Describe what they noticed, what continued to occupy their mind and what only became clear later.
+
+Do not jump directly from the event to a polished conclusion.
+
+Where appropriate, let the narrator question, dismiss, remember and reconsider before understanding what the experience meant.
+
+Reflection should feel like thought unfolding rather than an argument being presented.
 
 Do not explain what the reader already understands.
-
-Leave space for interpretation.
 
 If the story has already landed emotionally, resist adding another conclusion.
 
@@ -123,6 +129,12 @@ Review the completed story for:
 * authenticity
 * repetition
 * AI anti-patterns
+
+Check whether the story reveals the narrator's thinking or merely reports the lesson they eventually reached.
+
+Look for sentences that package the meaning too neatly.
+
+Where the prose feels assembled, return to the remembered moment, observation or thought that produced the insight.
 
 Remove anything that distracts from the story.
 
