@@ -1,7 +1,18 @@
 
 # Critique A Story
 Apply the repository principles and Conditions of Satisfaction before beginning.
-(check principles/99-conditions-of-satisfaction.md )
+Before critiquing, read and apply:
+
+- principles/00-core-principles.md
+- principles/01-discovery.md
+- principles/02-atmosphere.md
+- principles/03-narrative.md
+- principles/04-reflection.md
+- principles/99-conditions-of-satisfaction.md
+- principles/06-anti-patterns.md
+
+These files are part of this prompt.
+Do not continue until they have been applied.
 
 Your role is not to rewrite the story.
 
