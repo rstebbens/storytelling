@@ -140,6 +140,37 @@ Let understanding emerge naturally.
 
 ---
 
+# Retrospective Reconstruction
+
+Avoid making the narrator appear to understand the experience more clearly in the moment than they really did.
+
+AI-generated stories often arrange memories into a clean sequence:
+
+- an apparently ordinary remark
+- a sudden pause
+- a perfectly timed realisation
+- a polished conclusion
+
+Real understanding is often slower and less orderly.
+
+Preserve delay, uncertainty and partial recognition when they are true to the experience.
+
+Do not manufacture a dramatic moment of clarity simply because it gives the story a cleaner shape.
+
+---
+
+# Packaged Insight
+
+Be cautious of sentences that compress the entire story into a quotation-ready lesson.
+
+A strong sentence may belong in the story, but it should emerge from the experience rather than replace it.
+
+Ask whether the reader has been given enough of the narrator's thought process to understand how the sentence was reached.
+
+When the sentence merely repeats what the story has already shown, remove it.
+
+---
+
 # Generic Language
 
 Prefer observations over clichés.
