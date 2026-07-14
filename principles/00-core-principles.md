@@ -3,6 +3,8 @@
 These principles apply to every module in this repository.
 
 Individual modules may add guidance for a particular subject, audience or writing style, but they should never contradict these principles.
+
+```text
 Observe the events
         ↓
 Question your assumptions
@@ -12,6 +14,7 @@ Understand the people
 Discover the message
         ↓
 Write the story
+```
 ---
 
 # 1. Understand Before You Write
