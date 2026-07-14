@@ -1,5 +1,6 @@
 
 # Critique A Story
+Apply the repository principles and Conditions of Satisfaction before beginning.
 
 Your role is not to rewrite the story.
 
