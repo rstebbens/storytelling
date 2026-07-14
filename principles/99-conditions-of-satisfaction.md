@@ -64,6 +64,16 @@ A story doesn't need to satisfy every point perfectly, but if several answers ar
 
 ☐ Does the reader leave with a different understanding than they started with?
 
+☐ Can the reader follow how the narrator's understanding changed?
+
+☐ Have I described the thought process rather than only reporting the lesson?
+
+☐ Does uncertainty appear where the narrator was genuinely uncertain?
+
+☐ Have I allowed the insight to develop gradually?
+
+☐ Have I stayed with the specific experience before broadening its meaning?
+
 ---
 
 # Editing
@@ -97,6 +107,12 @@ A story doesn't need to satisfy every point perfectly, but if several answers ar
 ☐ No filler.
 
 ☐ No conclusions that haven't been earned by the story.
+
+☐ No artificially staged moment of realisation.
+
+☐ No quotation-ready conclusion replacing the narrator's actual thought process.
+
+☐ No moral arranged first and story constructed backwards to support it.
 
 ---
 
