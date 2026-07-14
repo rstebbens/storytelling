@@ -1,6 +1,16 @@
 # Discover The Story
 
 Apply the repository principles before beginning.
+Before critiquing, read and apply:
+
+- principles/00-core-principles.md
+- principles/01-discovery.md
+- principles/02-atmosphere.md
+- principles/03-narrative.md
+- principles/04-reflection.md
+- principles/05-editing.md
+- principles/99-conditions-of-satisfaction.md
+- principles/06-anti-patterns.md
 
 Do not write the story immediately.
 
