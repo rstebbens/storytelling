@@ -198,7 +198,7 @@ Do not write prematurely.
 
 Route to:
 
-`prompts/write-a-story.md`
+`prompts/write-the-story.md`
 
 ## Story Intended For Speaking
 
