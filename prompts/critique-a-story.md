@@ -1,6 +1,7 @@
 
 # Critique A Story
 Apply the repository principles and Conditions of Satisfaction before beginning.
+(check principles/99-conditions-of-satisfaction.md )
 
 Your role is not to rewrite the story.
 
