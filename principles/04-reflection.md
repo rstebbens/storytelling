@@ -2,15 +2,7 @@
 
 Reflection is where experience becomes understanding.
 
-Events happen.
-
-Stories describe them.
-
-Reflection explains why they mattered.
-
-Without reflection, a story may be entertaining.
-
-With reflection, it becomes useful.
+It gives the reader enough of the narrator's thinking to understand why an experience continued to matter after the event itself had passed.
 
 ---
 
@@ -28,6 +20,22 @@ Ask yourself:
 - What wasn't obvious until later?
 
 The goal is understanding, not simply explanation.
+
+---
+
+# Follow The Thought
+
+Reflection should show how understanding developed.
+
+People rarely experience an insight as a complete and perfectly phrased conclusion. They notice something, dismiss it, return to it and gradually understand why it stayed with them.
+
+Describe what occupied the narrator's mind.
+
+Show what felt familiar, what continued to bother them and what they only recognised later.
+
+Allow curiosity to appear before certainty.
+
+The reader should feel they are accompanying the narrator towards an understanding rather than being presented with a finished lesson.
 
 ---
 
@@ -96,18 +104,31 @@ Follow the evidence rather than the conclusion you hoped to reach.
 
 ---
 
-# Find The Universal Truth
+# Stay With The Recognition
 
-The strongest stories move beyond the individual event.
+When an important connection appears, do not immediately convert it into a general life lesson.
 
-Ask yourself:
+Remain with the specific experience for a little longer.
 
-- Where else does this happen?
-- Why do people keep repeating this pattern?
-- What does this reveal about human behaviour?
-- What would someone in a completely different profession recognise here?
+What did the narrator remember?
 
-The broader the insight, the longer the story remains relevant.
+When did the connection occur?
+
+What detail brought an earlier experience back?
+
+What did they initially misunderstand?
+
+A recognisable thought process usually carries more emotional weight than a polished summary of what the experience meant.
+
+---
+
+# Look For Recognition
+
+A story may resonate beyond the original experience, but it does not need to announce a universal truth.
+
+Use honest observation and allow readers to recognise the wider pattern for themselves.
+
+The aim is not to make every experience represent all human behaviour. It is to describe one experience precisely enough that another person may see something of themselves within it.
 
 ---
 
@@ -125,14 +146,12 @@ Reflection should increase understanding, not reduce complexity simply to make t
 
 ---
 
-# End With Perspective
+# End Where The Understanding Settles
 
-A good reflection leaves the reader thinking differently.
+The ending should remain close to what the narrator now sees differently.
 
-Not because you told them what to think.
+It may be a changed decision, an unresolved question, a remembered detail or a thought that continues to follow them.
 
-Because the story allowed them to discover something for themselves.
+Do not add a final explanation simply to make the meaning unmistakable.
 
-The best reflections don't close the conversation.
-
-They open a better one.
+When the story has already carried the insight, allow it to end.
