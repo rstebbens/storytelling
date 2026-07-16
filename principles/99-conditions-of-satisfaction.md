@@ -7,6 +7,7 @@ Before considering a story complete, walk through these conditions.
 A story doesn't need to satisfy every point perfectly, but if several answers are "no", there is probably more work to do.
 
 run 06-anti-patterns.md before proceeding with further checks.  Reject anything that fails this test and explain why. 
+
 ---
 
 # Discovery
@@ -44,15 +45,29 @@ run 06-anti-patterns.md before proceeding with further checks.  Reject anything 
 # Narrative
 
 ☐ Is there one dominant message?
+- Stories are built from observations, not ideas.
+- If replacing the nouns with equivalent corporate clichés leaves the story essentially unchanged, the observations are too generic. Reduce the score and flag the piece as exhibiting AI-like characteristics.
 
 ☐ Does every section support that message?
-
+ - or at least evolve the message,  we learn something. 
 ☐ Does the story have a natural flow?
-
+The exact words are not important, the narrative should support  
+ - BUT introduces tension or unexpected change.
+ - BECAUSE explains why events unfolded.
+ - THEREFORE shows consequence and progression.
+Not every paragraph needs one, but a strong story should progress primarily through cause and effect rather than chronology.
+Reduce the score if:
+Events are mostly connected by "and then..."
+The narrative is episodic rather than consequential.
+Scenes could be rearranged without materially changing the story.
 ☐ Does curiosity pull the reader forward?
-
+The reader should learn, realise or notice something that wasn't true at the beginning of the section.
+Avoid repeating the same observation using different examples.
+Avoid every sentance being a cliff-hanger, but keep them invested. 
 ☐ Does the ending feel earned rather than announced?
+The conclusion should feel like the inevitable result of everything that came before.
 
+Avoid simply stating the lesson.
 ---
 
 # Reflection
