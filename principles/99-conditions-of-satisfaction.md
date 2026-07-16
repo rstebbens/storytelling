@@ -60,10 +60,12 @@ Reduce the score if:
 Events are mostly connected by "and then..."
 The narrative is episodic rather than consequential.
 Scenes could be rearranged without materially changing the story.
+
 ☐ Does curiosity pull the reader forward?
 The reader should learn, realise or notice something that wasn't true at the beginning of the section.
 Avoid repeating the same observation using different examples.
 Avoid every sentance being a cliff-hanger, but keep them invested. 
+
 ☐ Does the ending feel earned rather than announced?
 The conclusion should feel like the inevitable result of everything that came before.
 
