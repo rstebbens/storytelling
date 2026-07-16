@@ -6,6 +6,7 @@ Before considering a story complete, walk through these conditions.
 
 A story doesn't need to satisfy every point perfectly, but if several answers are "no", there is probably more work to do.
 
+run 06-anti-patterns.md before proceeding with further checks.  Reject anything that fails this test and explain why. 
 ---
 
 # Discovery
