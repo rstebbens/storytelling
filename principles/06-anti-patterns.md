@@ -47,6 +47,8 @@ Examples include:
 > Not that...
 
 > Not the other...
+>
+> Before returning a story, actively search for AI rhetorical fingerprints. Remove or justify every occurrence. If a pattern such as "No X. No Y. No Z.", "Not X. Y.", repeated sentence stems, or manufactured punchy fragments remains, assume the draft is not ready until it has been rewritten or the pattern is genuinely flagged as appropriate. 
 
 One clear statement is usually stronger than several repeated denials.
 
