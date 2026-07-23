@@ -37,7 +37,7 @@ If the real story, central message or narrative direction remains unclear, route
 
 Before editing, load and apply:
 
-* `prompts/06-anti-patterns.md`
+* `principles/06-anti-patterns.md`
 * the current Conditions of Satisfaction
 * any voice, style or author-specific guidance required by the repository
 
