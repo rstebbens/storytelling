@@ -43,8 +43,8 @@ Before editing, load and apply:
 * principles/02-atmosphere.md
 * principles/03-narrative.md
 * principles/04-reflection.md
-* principles/07-voice.md
 * principles/06-anti-patterns.md
+* principles/07-voice.md
 * principles/99-conditions-of-satisfaction.md
 * the current Conditions of Satisfaction
 * any voice, style or author-specific guidance required by the repository
