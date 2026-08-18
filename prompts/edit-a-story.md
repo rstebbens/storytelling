@@ -37,7 +37,6 @@ If the real story, central message or narrative direction remains unclear, route
 
 Before editing, load and apply:
 
-* `principles/06-anti-patterns.md`
 * principles/00-core-principles.md
 * principles/01-discovery.md
 * principles/02-atmosphere.md
