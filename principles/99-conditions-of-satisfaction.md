@@ -20,7 +20,7 @@ run 06-anti-patterns.md before proceeding with further checks.  Reject anything 
 
 ☐ Have I asked enough questions?
 
-☐ Can I explain the story in a single sentence?
+☐ Can I explain the story in a single sentance?
 
 ☐ Do I understand why this story matters?
 
