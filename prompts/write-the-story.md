@@ -19,7 +19,7 @@ Load and apply:
 * principles/02-atmosphere.md
 * principles/03-narrative.md
 * principles/04-reflection.md
-* principles/05-voice.md
+* principles/07-voice.md
 * principles/06-anti-patterns.md
 * principles/99-conditions-of-satisfaction.md
 
